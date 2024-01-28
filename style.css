@@ -1,0 +1,18 @@
+span.negro{
+    background-color: black;
+    color: white;
+}
+span.verde{
+    background-color: greenyellow;
+}
+ul.square{
+    list-style-type: lower-roman ;
+}
+span.morado{
+    background-color: purple;
+    color: greenyellow;
+}
+span.verde1{
+    background-color: purple;
+    color: greenyellow;
+}
